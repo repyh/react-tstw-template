@@ -14,3 +14,5 @@ $ yarn install
 ```
 $ yarn start
 ```
+
+Oh and btw, don't mind the project name
